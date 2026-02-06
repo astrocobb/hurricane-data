@@ -50,7 +50,7 @@ public class Main {
     /**
      * method to get the max ACE index from an ArrayList of hurricane data
      * @param hurricaneData ArrayList of hurricane data
-     * @return the year the max ACE index was the highest
+     * @return the row data when the ACE index was the highest
      */
     public static HurricaneRowData getMaxAce(ArrayList<HurricaneRowData> hurricaneData) {
 
